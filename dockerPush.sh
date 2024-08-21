@@ -10,3 +10,10 @@ docker tag $imageid 312253715348.dkr.ecr.us-east-1.amazonaws.com/$repoName:$tag
 docker push 312253715348.dkr.ecr.us-east-1.amazonaws.com/$repoName:$tag
 
 echo " image saved in ECR repo "
+
+
+
+
+
+
+# this script is written by kingsman with lots of ❤️❤️❤️❤️❤️
