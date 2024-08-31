@@ -1,0 +1,4 @@
+# in local machine there can be multiple temp file or work files may exits, we can avoid pushing those files to remote by adding thier details to .gitignore
+
+*.log
+*.tmp
